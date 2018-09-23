@@ -9,3 +9,8 @@ const jacky= function(name){
 }
 console.log(jacky());
 
+const helloMajid = function(name) {
+  return 'Hello' + name;
+}
+
+console.log(helloMajid());
