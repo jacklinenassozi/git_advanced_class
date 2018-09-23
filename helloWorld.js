@@ -3,3 +3,7 @@ const helloWorld = function() {
 };
 
 console.log(helloWorld());
+
+const jacky= function(name){
+  ()
+}
