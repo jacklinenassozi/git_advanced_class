@@ -3,3 +3,9 @@ const helloWorld = function() {
 };
 
 console.log(helloWorld());
+
+const helloMajid = function(name) {
+  return 'Hello' + name;
+}
+
+console.log(helloMajid);
