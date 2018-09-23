@@ -8,4 +8,4 @@ const helloMajid = function(name) {
   return 'Hello' + name;
 }
 
-console.log(helloMajid);
+console.log(helloMajid());
