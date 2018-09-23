@@ -5,5 +5,6 @@ const helloWorld = function() {
 console.log(helloWorld());
 
 const jacky= function(name){
-  ()
+  return 'hello' + name;
 }
+console.log(jacky());
